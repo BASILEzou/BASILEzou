@@ -15,5 +15,5 @@ Je suis Basile, étudiant du double diplôme entre l'INSA et Sciences Po Toulous
 
 ----
 
-* [Répertoire avec toutes mes produciton scientifiques](https://github.com/BASILEzou/Scientific-article.git)
+* [Répertoire avec toutes mes producitons/articles scientifiques](https://github.com/BASILEzou/Scientific-article.git)
   

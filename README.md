@@ -1,4 +1,4 @@
-Je suis Basile, étudiant du double diplôme entre l'INSA et Sciences Po Toulouse. Ce README rescence tout les projets auquels j'ai pu contribué : 
+Je suis Basile, étudiant du double diplôme entre l'INSA et Sciences Po Toulouse. Ce README rescence mes projets qui sont sur Github (certains sont des projets collectif) : 
 * [Projet de réseau ethernet de capteurs de qualité d'air (CO2, temp., hum., bruit) avec la suite Raspberry](https://github.com/Makssse/Projet-Multidisciplinaire.git)
   
 * [Projet de création d'un capteur de déformation lowtech à base de graphite avec la suite Arduino](https://github.com/MOSH-Insa-Toulouse/2025-2026-4GPa-Simonnet-Vidalenc.git)

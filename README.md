@@ -4,10 +4,12 @@ Je suis Basile, étudiant du double diplôme entre l'INSA et Sciences Po Toulous
 * [Projet de création d'un capteur de déformation lowtech à base de graphite avec la suite Arduino](https://github.com/MOSH-Insa-Toulouse/2025-2026-4GPa-Simonnet-Vidalenc.git)
 
 * [Stage à l'université PUCMM sur la synthèse et la caractérisation de diamane](https://github.com/BASILEzou/STAGE-2026-PUCMM-Diamane.git)
+
+* [Répertoire avec toutes mes produciton scientifiques](https://github.com/BASILEzou/STAGE-2026-PUCMM-Diamane.git)
   
 * [Simulation sous python de l'effet tunnel quantique](https://github.com/BASILEzou/effet-tunnel.git)
   
-* [Interface ludique d'affichage des indicateur de dévellopement durable de l'ONU en France Métropolitaine (entre 1960 et 2020), à différentes échelles (départements, région,...) sous python](https://github.com/BASILEzou/cartographie-ODD_ONU.git)
+* [Interface ludique d'affichage des indicateur de dévellopement durable de l'ONU en France Métropolitaine (entre 1954 et 2024), à différentes échelles (départements et régions) sous python](https://github.com/BASILEzou/cartographie-ODD_ONU.git)
 
 * [Résolution numérique (python) du problème à trois corps](https://github.com/BASILEzou/3body-problem.git)
 
